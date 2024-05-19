@@ -1,4 +1,5 @@
 # Student-Alcohol-Consumption-Analysis-using-Python
+
 Project: Student Alcohol Consumption Analysis
 
 Overview:
@@ -6,12 +7,15 @@ Overview:
 Data Preparation:
 
 Processed and cleaned dataset, addressing null values and duplicates to ensure data quality for analysis.
+
 Data Analysis:
 
 Conducted extensive univariate analysis, extracting insights from 10+ visualizations (pie charts, bar charts, histograms) to understand student alcohol consumption patterns.
+
 Advanced Analysis Techniques:
 
 Employed bivariate analysis techniques, including heatmap visualizations, to uncover correlations. Notably identified a strong association between students majoring in Economic & Management Sciences and alcohol consumption habits.
+
 Technical Skills:
 
 Demonstrated proficiency in Python for data manipulation using different functions. Utilized Matplotlib and Seaborn libraries for data visualization.
