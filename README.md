@@ -14,11 +14,11 @@ Advanced Analysis Techniques:
 Employed bivariate analysis techniques, including heatmap visualizations, to uncover correlations. Notably identified a strong association between students majoring in Economic & Management Sciences and alcohol consumption habits.
 Technical Skills:
 
-Demonstrated proficiency in Python for data manipulation using functions like info(), duplicates(), isna().sum(). Utilized Matplotlib and Seaborn libraries for data visualization.
+Demonstrated proficiency in Python for data manipulation using different functions. Utilized Matplotlib and Seaborn libraries for data visualization.
 Academic Trends and Insights:
 
 Discovered academic trends, including a mean GPA of 66.56%, and highlighted correlations between academic performance and extracurricular activities, contributing to a deeper understanding of student behaviors.
 
-Repository Contents
+Repository Contents:
 HTMl File: Includes Python code and its result used for analysis of data.
 Data: Sample dataset used for analysis.
