@@ -20,5 +20,7 @@ Academic Trends and Insights:
 Discovered academic trends, including a mean GPA of 66.56%, and highlighted correlations between academic performance and extracurricular activities, contributing to a deeper understanding of student behaviors.
 
 Repository Contents:
+
 HTMl File: Includes Python code and its result used for analysis of data.
+
 Data: Sample dataset used for analysis.
